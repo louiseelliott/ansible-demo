@@ -27,7 +27,7 @@
 
       ignore_errors: yes
 
-    - name: Incrase MYSQL Memory
+    - name: increase MYSQL Memory
       shell: |
         echo "---------------------------------------------------------------------------------------------------------------------------------------------------"
       ignore_errors: yes
